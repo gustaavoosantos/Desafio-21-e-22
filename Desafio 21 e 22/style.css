@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(204, 32, 32);
+  }
+  h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    text-transform: uppercase;
+    color: black;
+    position: relative;
+    top: 200px;
+  }
